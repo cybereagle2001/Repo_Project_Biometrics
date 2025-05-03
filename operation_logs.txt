@@ -1,0 +1,26 @@
+2025-05-01 20:32:34 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-01 20:33:22 - Encrypt operation performed on /mnt/d/python-fingerprint-recognition/search.py
+2025-05-01 20:33:46 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/database/101_1.tif
+2025-05-01 20:34:14 - Decrypt operation performed on /mnt/d/python-fingerprint-recognition/search.py.enc
+2025-05-01 20:35:20 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/database/103_6.tif
+2025-05-01 20:41:20 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-01 20:44:20 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/database/110_8.tif
+2025-05-01 20:45:57 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/R.jpg
+2025-05-01 21:00:52 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/R.jpg
+2025-05-01 21:04:45 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-01 21:04:54 - Fingerprint enrolled for user: 102
+2025-05-01 21:17:09 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-01 21:18:59 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-01 21:32:22 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-01 21:32:55 - Encrypt operation performed on /mnt/d/python-fingerprint-recognition/TEST/test.txt
+2025-05-01 21:53:22 - Decrypt operation performed on /mnt/d/python-fingerprint-recognition/TEST/test.txt.enc
+2025-05-01 22:37:48 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-01 22:42:04 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-01 22:42:51 - Encrypt operation performed on /mnt/d/python-fingerprint-recognition/TEST/test.txt
+2025-05-01 22:43:30 - Decrypt operation performed on /mnt/d/python-fingerprint-recognition/TEST/test.txt.enc
+2025-05-02 10:54:56 - Fingerprint Not Recognised!
+2025-05-02 10:55:06 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/102_1.tif
+2025-05-02 10:56:06 - Encrypt operation performed on /mnt/d/python-fingerprint-recognition/TEST/test.txt
+2025-05-02 10:56:45 - Decrypt operation performed on /mnt/d/python-fingerprint-recognition/TEST/test.txt.enc
+2025-05-02 10:57:20 - Fingerprint enrolled for user: 105
+2025-05-02 10:57:34 - Fingerprint verified: /mnt/d/python-fingerprint-recognition/database/105_1.tif
